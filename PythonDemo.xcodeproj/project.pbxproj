@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		31C3873C197C026400DB678B /* test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		31C38735197C020D00DB678B = {
 			isa = PBXGroup;
 			children = (
+				31C3873C197C026400DB678B /* test.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -40,12 +45,14 @@
 		31C3873A197C020D00DB678B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				New_Setting = "";
 			};
 			name = Debug;
 		};
 		31C3873B197C020D00DB678B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				New_Setting = "";
 			};
 			name = Release;
 		};
